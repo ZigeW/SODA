@@ -12,7 +12,7 @@ The implementation of SODA on CIFAR-10-C, CIFAR-100-C and ImageNet-C.
 
 ## Datasets
 
-Please download and organize [CIFAR-10-C][https://zenodo.org/record/2535967/files/CIFAR-10-C.tar?download=1], [CIFAR-100-C][https://zenodo.org/record/3555552/files/CIFAR-100-C.tar?download=1] and [ImageNet-C][https://zenodo.org/record/2235448] in this structure:
+Please download and organize [CIFAR-10-C](https://zenodo.org/record/2535967/files/CIFAR-10-C.tar?download=1), [CIFAR-100-C](https://zenodo.org/record/3555552/files/CIFAR-100-C.tar?download=1) and [ImageNet-C](https://zenodo.org/record/2235448) in this structure:
 
 (ImageNet-C data can also be generated following instructions in [this repository](https://github.com/Gorilla-Lab-SCUT/TTAC/tree/master/imagenet))
 
